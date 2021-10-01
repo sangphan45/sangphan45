@@ -1,7 +1,5 @@
 <h1 align="center">- Phan Thanh Sang -</h1>  
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangphan45&label=Profile%20views&color=0e75b6&style=flat" alt="sangphan45" /> </p>   -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangphan45" alt="sangphan45" /> </p>   -->
-![](https://komarev.com/ghpvc/?username=sangphan45)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangphan45&show_icons=true&theme=dark&locale=en&layout=compact" alt="sangphan45" /></p>  
   
